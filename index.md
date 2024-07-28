@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a PhD student in the Materials Science Department at University of California, Berkeley. My research is performed at Lawrence Berkeley National Laboratory, where I work on simulation development for advancing synthesis recipe design for solid-state materials. In my free time, I try to spend as much time outside as possible - on most days that means running on our wonderful trails in Tilden and Strawberry Canyon. I also love reading, playing piano, traveling around California, and going to the climbing gym.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Solid-state Synthesis:** precursor selection, thermodynamics, kinetics, defects
+- **Simulation Design:** chemical reaction networks, cellular automata, lattice modeling
+- **First Principles Calculations:** density functional theory, molecular dynamics
+- **Machine Learning:** materials discovery via informatics, machine learning potentials
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2024]** Pre-print of my paper about simulation solid-state synthesis uploaded to the arXiv.
+- **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the Journal of Open Source Science!
 
 {% include_relative _includes/publications.md %}
 
