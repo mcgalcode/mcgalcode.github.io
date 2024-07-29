@@ -1,14 +1,51 @@
 main:
 
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
+  - title: "ReactCA: A Cellular Automaton Simulation for Predicting Solid-State Reaction Outcomes"
+    authors: <strong>Max C Gallant</strong>, Matthew J. McDermott, Bryant Li, Kristin A. Persson
+    image: ./assets/img/paper_thumb/update_rule.png
+    selected: true
+    featured: true
+    code: https://github.com/mcgalcode/rxn-ca
+    description: In this work, we present a simulation technique developed to accelerate solid-state synthesis planning. This simulation, called ReactCA,
+      predicts the phases that appear during a solid-state reaction (as specified by precursor ratios, temperature profile, and reaction atmosphere)
+      using the cellular automaton (CA) formalism. We select CA as the optimal simulation structure because it naturally captures local interactions - 
+      a critical characteristic given the spatial dependenc of solid-state reaction behavior as specified by the pairwise interface reaction theory of solid-state reactions.
+
+
+  - title: "pylattica: a package for prototyping lattice models in chemistry and materials science"
+    authors: <strong>Max C Gallant</strong>, Kristin A. Persson
+    image: ./assets/img/paper_thumb/vizeg.png
+    selected: true
+    code: https://github.com/mcgalcode/pylattica
+    pdf: https://joss.theoj.org/papers/10.21105/joss.06170
+
+  - title: "The ab initio amorphous materials database: Empowering machine learning to decode diffusivity"
+    authors: Hui Zheng, Eric Sivonxay, <strong>Max Gallant</strong>, Ziyao Luo, Matthew McDermott, Patrick Huck, Kristin A Persson
+    image: ./assets/img/paper_thumb/amorphous.png
+    pdf: https://arxiv.org/pdf/2402.00177
+
+  - title: "Jobflow: Computational Workflows Made Simple"
+    authors: Andrew S Rosen, <strong>Max Gallant</strong>, Janine George, Janosh Riebesell, Hrushikesh Sahasrabuddhe, Jimmy-Xuan Shen, Mingjian Wen, Matthew L Evans, Guido Petretto, David Waroquiers, Gian-Marco Rignanese, Kristin A Persson, Anubhav Jain, Alex M Ganose
+    pdf: https://joss.theoj.org/papers/10.21105/joss.05995
+    image: ./assets/img/paper_thumb/jobflow_logo.svg
+    code: https://github.com/materialsproject/jobflow
+
+  - title: An autonomous laboratory for the accelerated synthesis of novel materials
+    authors: Nathan J Szymanski, Bernardus Rendy, Yuxing Fei, Rishi E Kumar, Tanjin He, David Milsted, Matthew J McDermott, <strong>Max Gallant</strong>, Ekin Dogus Cubuk, Amil Merchant, Haegyeom Kim, Anubhav Jain, Christopher J Bartel, Kristin Persson, Yan Zeng, Gerbrand Ceder
+    pdf: https://www.nature.com/articles/s41586-023-06734-w.pdf
+    image: ./assets/img/paper_thumb/alab.png
+  
+  - title: Assessing thermodynamic selectivity of solid-state reactions for the predictive synthesis of inorganic materials
+    authors: Matthew J McDermott, Brennan C McBride, Corlyn E Regier, Gia Thinh Tran, Yu Chen, Adam A Corrao, <strong>Max C Gallant</strong>, Gabrielle E Kamm, Christopher J Bartel, Karena W Chapman, Peter G Khalifah, Gerbrand Ceder, James R Neilson, Kristin A Persson
+    pdf: https://pubs.acs.org/doi/epdf/10.1021/acscentsci.3c01051
+    image: ./assets/img/paper_thumb/assessing.jpeg
+    selected: true
+
+  - title: Shape-Controlled NaTaO3 by Flux-Mediated Synthesis
+    authors: Kootak Hong, Shaun Tan, Matthew J McDermott, Tianyi Huang, Finn Babbe, Tim Kodalle, <strong>Max Gallant</strong>, Sehun Seo, Francesca M Toma, Kristin A Persson, Yang Yang, Carolin M Sutter‐Fella
+    image: ./assets/img/paper_thumb/shape_controlled.png
+    page: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202206641
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

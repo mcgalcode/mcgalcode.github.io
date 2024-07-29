@@ -16,8 +16,26 @@ I'm a PhD student in the Materials Science Department at University of Californi
 ## News
 
 - **[July. 2024]** Pre-print of my paper about simulation solid-state synthesis uploaded to the arXiv.
-- **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the Journal of Open Source Science!
+- **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the Journal of Open Source Software!
 
-{% include_relative _includes/publications.md %}
+<h2 id="publications">Selected Publications</h2>
+
+<p>
+See all publications <a href="/publications">here!</a>
+</p>
+<div class="publications">
+<ol class="bibliography">
+
+{% for link in site.data.publications.main %}
+{% if link.selected %} 
+
+{% include single_publication.md pub=link %}
+
+<br>
+{% endif %}
+{% endfor %}
+
+</ol>
+</div>
 
 {% include_relative _includes/services.md %}
