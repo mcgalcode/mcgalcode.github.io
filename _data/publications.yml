@@ -3,6 +3,7 @@ main:
   - title: "ReactCA: A Cellular Automaton Simulation for Predicting Solid-State Reaction Outcomes"
     authors: <strong>Max C Gallant</strong>, Matthew J. McDermott, Bryant Li, Kristin A. Persson
     image: ./assets/img/paper_thumb/update_rule.png
+    image_big: ./assets/img/paper_big/li2co3_fast_long_full_fractional.gif
     selected: true
     featured: true
     code: https://github.com/mcgalcode/rxn-ca

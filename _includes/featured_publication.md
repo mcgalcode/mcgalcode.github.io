@@ -18,7 +18,7 @@
     </div>
   </div>
   <div class="pub-row">
-      <img src="{{ link.image }}" class="featured-pub-img img-fluid z-depth-1" style="margin: auto;">
+      <img src="{{ link.image_big }}" class="featured-pub-img img-fluid z-depth-1" style="margin: auto;">
   </div>
   <div class="pub-row">
     <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
