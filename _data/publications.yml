@@ -11,7 +11,7 @@ main:
     description: In this work, we present a simulation technique developed to accelerate solid-state synthesis planning. This simulation, called ReactCA,
       predicts the phases that appear during a solid-state reaction (as specified by precursor ratios, temperature profile, and reaction atmosphere)
       using the cellular automaton (CA) formalism. We select CA as the optimal simulation structure because it naturally captures local interactions - 
-      a critical characteristic given the spatial dependenc of solid-state reaction behavior as specified by the pairwise interface reaction theory of solid-state reactions.
+      a critical characteristic given the spatial dependence of solid-state reaction behavior as specified by the pairwise interface reaction theory of solid-state reactions.
 
 
   - title: "pylattica: a package for prototyping lattice models in chemistry and materials science"
