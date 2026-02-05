@@ -18,7 +18,7 @@ I'm a PhD candidate in the Materials Science Department at University of Califor
 
 - **[Feb. 2026]** I am awarded the UC Berkeley Department of Materials Science "Didier de Fontaine Student Award in Theory and Computation"
 - **[Oct. 2025]** Our paper on a novel synthesis method for high-entropy alloy nanoparticles is published in _Nature_
-- **[Oct. 2025]** Our python package for composite designed is published in _JOSS_
+- **[Oct. 2025]** Our python package for composite designed is published in the _Journal of Open Source Software_!
 - **[June. 2025]** I spend the month in Linkoping, SE investigating the behavior of silica melts under high pressure
 - **[July. 2025]** The second version of our computational materials science workflow software, `atomate2` is published in _Digital Discovery_
 - **[Jan. 2025]** I start an AI PhD Residency at (Google) X, the moonshot factory
