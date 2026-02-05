@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-I'm a PhD student in the Materials Science Department at University of California, Berkeley. My research is performed at Lawrence Berkeley National Laboratory, where I work on simulation development for advancing synthesis recipe design for solid-state materials. In my free time, I try to spend as much time outside as possible - on most days that means running on our wonderful trails in Tilden and Strawberry Canyon. I also love reading, playing piano, traveling around California, and going to the climbing gym.
+I'm a PhD candidate in the Materials Science Department at University of California, Berkeley. My research is performed at Lawrence Berkeley National Laboratory, where I work on simulation development and machine learning for advancing synthesis recipe design for solid-state materials in the context of self-driving labs. During my PhD I have also worked for **X, the moonshot factory** (Google's semi-secret research lab), where I worked on AI-for-science projects, and at the **National Renewable Energies Laboratory** where I worked on machine learning methods for managing data from a high-throughput combinatorial sputtering lab for solar cell material discovery. In my free time, I try to spend as much time outside as possible - on most days that means running on our wonderful trails in Tilden and Strawberry Canyon. I also love reading, playing piano, traveling around California, and going to the climbing gym.
 
 ## Research Interests
 
-- **Solid-state Synthesis:** precursor selection, thermodynamics, kinetics, defects
+- **AI for materials science:** context management for research decision making, literature management, experimental result analysis and parsing
+- **Machine Learning:** active learning machine learning potential training, MLIP use in investigations into kinetics of solid-state processes
+- **Solid-state Synthesis:** precursor selection strategies, synthesis recipe design heuristics based on first principles calculations
 - **Simulation Design:** chemical reaction networks, cellular automata, lattice modeling
 - **First Principles Calculations:** density functional theory, molecular dynamics
-- **Machine Learning:** materials discovery via informatics, machine learning potentials
 
 ## News
 
@@ -25,7 +26,7 @@ I'm a PhD student in the Materials Science Department at University of Californi
 - **[Dec. 2024]** I am awarded the Kavli ENSI Graduate Student Fellowship
 - **[Nov. 2024]** ReactCA solid-state simulation paper published in _Chemistry of Materials_
 - **[July. 2024]** Pre-print of my paper about simulation solid-state synthesis uploaded to the arXiv.
-- **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the Journal of Open Source Software!
+- **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the _Journal of Open Source Software_!
 
 <h2 id="publications">Selected Publications</h2>
 
