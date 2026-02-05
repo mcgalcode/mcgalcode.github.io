@@ -15,6 +15,15 @@ I'm a PhD student in the Materials Science Department at University of Californi
 
 ## News
 
+- **[Feb. 2026]** I am awarded the UC Berkeley Department of Materials Science "Didier de Fontaine Student Award in Theory and Computation"
+- **[Oct. 2025]** Our paper on a novel synthesis method for high-entropy alloy nanoparticles is published in _Nature_
+- **[Oct. 2025]** Our python package for composite designed is published in _JOSS_
+- **[June. 2025]** I spend the month in Linkoping, SE investigating the behavior of silica melts under high pressure
+- **[July. 2025]** The second version of our computational materials science workflow software, `atomate2` is published in _Digital Discovery_
+- **[Jan. 2025]** I start an AI PhD Residency at (Google) X, the moonshot factory
+- **[Dec. 2024]** Our paper presenting a database of AIMD trajectories for amorphous configurations is published in _npj Computational Materials_
+- **[Dec. 2024]** I am awarded the Kavli ENSI Graduate Student Fellowship
+- **[Nov. 2024]** ReactCA solid-state simulation paper published in _Chemistry of Materials_
 - **[July. 2024]** Pre-print of my paper about simulation solid-state synthesis uploaded to the arXiv.
 - **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the Journal of Open Source Software!
 
