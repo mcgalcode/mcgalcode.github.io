@@ -28,6 +28,12 @@ I'm a PhD candidate in the Materials Science Department at University of Califor
 - **[July. 2024]** Pre-print of my paper about simulation solid-state synthesis uploaded to the arXiv.
 - **[Feb. 2024]** My paper on my lattice simulation software, pylattica, is accepted by the _Journal of Open Source Software_!
 
+<h2 id="software">Software</h2>
+
+<p>
+I develop open-source tools for computational materials science. See my <a href="/software">software packages</a>.
+</p>
+
 <h2 id="publications">Selected Publications</h2>
 
 <p>
